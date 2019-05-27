@@ -1,3 +1,4 @@
+![procaryota logo](images/logo.png)
 # Procaryota - 2D Cell Shooter
 
 Procaryota is a small personal project developed under Unity with homemade graphics.
@@ -17,3 +18,6 @@ Last Releases for Linux, MacOS and Windows
 
 ## Screenshots
 
+![procaryota screenshot1](images/screen1.png)
+
+![procaryota screenshot2](images/screen2.png)
