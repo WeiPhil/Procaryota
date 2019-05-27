@@ -18,6 +18,6 @@ Last Releases for Linux, MacOS and Windows
 
 ## Screenshots
 
-![procaryota screenshot1](images/screen1.png)
-
 ![procaryota screenshot2](images/screen2.png)
+
+![procaryota screenshot1](images/screen1.png)
